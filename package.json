@@ -34,7 +34,7 @@
   "dependencies": {
     "autosuggest-highlight": "^3.1.1",
     "aws-sdk": "^2.799.0",
-    "axios": "^0.21.1",
+    "axios": "^0.21.2",
     "bcryptjs": "^2.4.3",
     "bootstrap": "^4.3.1",
     "compression": "^1.7.4",
